@@ -1,0 +1,6 @@
+flask
+langchain
+python-dotenv
+pymilvus
+streamlit
+python-dotenv
